@@ -91,3 +91,4 @@ To compile the final optimized split APKs:
 ```
 The output split APKs will be located in:
 `app/build/outputs/apk/release/`
+
