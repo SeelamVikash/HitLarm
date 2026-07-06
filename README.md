@@ -52,6 +52,18 @@ To ensure a lightweight and smooth user experience, the release build utilizes *
 
 ---
 
+## How to Install (APK Download Guide)
+
+To install HitLarm on your Android device:
+1. Navigate to the **Releases** tab on this GitHub repository (or locate the compiled assets in the build folder).
+2. Download the split APK file corresponding to your device's processor architecture:
+   * **`app-arm64-v8a-release.apk` (Recommended)**: For almost all modern Android smartphones (Samsung, Pixel, OnePlus, etc.).
+   * **`app-armeabi-v7a-release.apk`**: For older or low-cost 32-bit Android devices.
+   * **`app-x86_64-release.apk` / `app-x86-release.apk`**: For Android Emulators or Chromebooks.
+3. Open the downloaded `.apk` file on your smartphone and confirm installation (you may need to allow "Install from Unknown Sources" in your browser/file explorer settings).
+
+---
+
 ## Project Structure & Clean Assets
 All showcase screenshots, verification assets, and app design previews have been moved into a dedicated directory:
 * **Screenshots folder:** `art/`
