@@ -1,0 +1,4 @@
+#Mon Jul 06 21:32:10 CEST 2026
+base.0=D\:\\New_Projects\\HitLarm\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
